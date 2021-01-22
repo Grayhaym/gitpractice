@@ -1,7 +1,4 @@
 One
 two
-three
-quatro
-cinco
-six
-seite
+ready?
+Go!
